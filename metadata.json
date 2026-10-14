@@ -1,0 +1,6 @@
+{
+  "name": "Jinn Summoner",
+  "description": "Summon ancient elemental Jinns through sacred occult rituals, bind wishes with cosmic pacts, and explore the spirits of smokeless fire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
